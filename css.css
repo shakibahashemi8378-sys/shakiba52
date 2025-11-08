@@ -1,0 +1,26 @@
+
+#divbaneer {
+  text-align: center;
+  
+  padding: 20px;
+  background-color: black; /* رنگ سیاه */
+  animation: blink 1s infinite;
+   background-color: black;
+  padding: 30px;
+  text-align: center;
+  border: 4px solid rgb(12, 12, 12); /* کادر سفید ضخیم */
+  border-radius: 5px;      /* گوشه‌های گرد */
+}
+
+.nastaliq h1 {
+  color: black;
+}
+.card:hover {
+  box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.3);
+  transform: scale(0.98);
+  transition: all 0.3s ease;
+}
+.custom-navbar {
+  background-color: #4B0082; /* رنگ بنفش تیره */
+}
+
